@@ -6,7 +6,7 @@ public class Triangle {
     private int sideB;
     private int sideC;
 
-    public Triangle(int a, int b, int c) {
+    public Square(int a, int b, int c) {
 		sideA = a;
         sideB = b;
         sideC = c;
